@@ -9,6 +9,7 @@ Meu caderno de estudos de programação, feito a partir de problemas do [LeetCod
 
 | # | Problema | Dificuldade | Tema | Solução |
 |---|---|---|---|---|
+| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Fácil | Strings | [ver pasta](58-length-of-last-word/) · [PDF](58-length-of-last-word/explicacao.pdf) |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Fácil | Árvores, recursão | [ver pasta](104-maximum-depth-of-binary-tree/) · [PDF](104-maximum-depth-of-binary-tree/explicacao.pdf) |
 
 ## Como cada pasta é organizada
